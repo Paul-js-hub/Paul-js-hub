@@ -9,7 +9,7 @@ const paulOnchera = {
   pronouns: ["he", "him"],
   code: [JavaScript, React, Redux, Node JS, HTML/CSS, Antd, Bootstrap, 
   Tailwind CSS],
-  challenge: "I practising code testing skills and PostgreSQL",
+  challenge: "I'm practising code testing skills and PostgreSQL",
   funFacts: "I have more than 1 year of experience in Software Development",
   hobbies: [Reading, Watching football, Nature enthuasist],
 }
